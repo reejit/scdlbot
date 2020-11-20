@@ -1,7 +1,7 @@
 {
   "name": "scdlbot",
   "description": "Telegram Bot for downloading MP3 rips of tracks/sets from SoundCloud, Bandcamp, YouTube with tags and artwork",
-  "repository": "https://github.com/gpchelkin/scdlbot",
+  "repository": "https://github.com/reejit/scdlbot",
   "logo": "https://raw.githubusercontent.com/gpchelkin/scdlbot/master/telegram_settings/setuserpic.jpg",
   "keywords": [
     "python",
